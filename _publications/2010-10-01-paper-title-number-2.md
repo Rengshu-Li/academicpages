@@ -1,14 +1,12 @@
 ---
-title: "Paper Title Number 2"
+title: "Microbial interactions in mixed-species biofilms on the surfaces of Baijiu brewing environments"
 collection: publications
 category: manuscripts
 permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+excerpt: 'TEnvironmental microorganisms commonly inhabit dense multispecies biofilms, fostering mutualistic relationships and co-evolution. However, the mechanisms underlying biofilm formation and microbial interactions within the Baijiu fermentation microecosystem remain poorly understood. Hence, the objective of this study was to investigate the composition, structure, and interactions of microorganisms residing in biofilms on environmental surfaces in Baijiu production. The results revealed a shift in the bacteria-fungi interaction network following fermentation, transitioning from a cooperative/symbiotic relationship to a competitive/antagonistic dynamic. Core microbiota within the biofilms comprised lactic acid bacteria (LAB), yeast, and filamentous fungi. From the environmental surface samples, we isolated two strains of LAB (Lactiplantibacillus pentosus EB27 and Pediococcus pentosaceus EB35) and one strain of yeast (Pichia kudriavzevii EF8), all displaying remarkable biofilm formation and fermentation potential. Co-culturing LAB and yeast demonstrated a superior capacity for dual-species biofilm formation compared to mono-species biofilms. The dual-species biofilm displayed a two-layer structure, with LAB in the lower layer and serving as the foundation for the yeast community in the upper layer. The upper layer exhibited a dense distribution of yeast, enhancing aerobic respiration. Metabolic activities in the dual-species biofilm, such as ABC transporter, oxidative phosphorylation, citric acid cycle, sulfur metabolism, glycine, serine, threonine metabolism, lysine degradation, and cysteine and methionine metabolism, showed significant alterations compared to LAB mono-species biofilms. Moreover, bacterial chemotaxis, starch, and sucrose metabolism in the dual-species biofilm exhibited distinct patterns from those observed in the yeast mono-species biofilm. This study demonstrated that a core microbiota with fermentation potential may exist in the form of a biofilm on the surface of a Baijiu brewing environment. These findings provide a novel strategy for employing synthetic stable microbiotas in the intelligent brewing of Baijiu.'
+date: 2024-09-01
+venue: '2024-09-01'
+paperurl: 'http://academicpages.github.io/files/paper02.pdf'
 ---
 
 The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
