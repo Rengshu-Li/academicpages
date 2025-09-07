@@ -1,14 +1,12 @@
 ---
-title: "Paper Title Number 3"
+title: "Integrated multi-omics uncover viruses, active fermenting microbes and their metabolic profiles in the Daqu microbiome"
 collection: publications
 category: manuscripts
 permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides3.pdf'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+excerpt: 'The coexistence and coevolution of viruses and fermenting microbes have a significant impact on the structure and function of microbial communities. Although the presence of viruses in Daqu, the fermentation starter for Chinese Baijiu, has been documented, their specific effects on the community composition and metabolic functions of low, medium, and high-temperature Daqu remain unclear. In this study, we employed multi-omics technology to explore the distribution of viruses and active bacteria and fungi in various Daqu and their potential metabolic roles. Viral metagenomic sequencing showed a predominance of Parvoviridae in High-Temperature Daqu (HTQ), while Genomoviridae were dominant in Medium-Temperature Daqu (MTQ) and Low- Temperature Daqu (LTQ). Phages belonging to the Siphoviridae, Podoviridae, Herelleviridae, and Myoviridae families showed significantly different abundances across three Daqu groups. Metatranscriptomic analysis showed that fungal communities were most active in LTQ, whereas bacterial communities were dominant in MTQ and HTQ. By employing the CRISPR-Cas spacer, a higher predicted number of phage-host linkages was identified in LTQ, particularly with hosts including Lactobacillus, Staphylococcus, Acinetobacter, Enterobacter, and Bacillus. Correlation analysis showed that bacteria like Acinetobacter, Lactobacillus, and Streptococcus exhibited the strongest associations with metabolites, particularly amino acids and organic acids. The potential phage-induced metabolic differences in the three Daqu groups were mainly linked to pathways involved in the metabolism of amino acids, sugars, and organic acids. Overall, our study elucidates the impact of viruses on shaping microbial composition and influencing metabolic functions in Daqu. These results improve our comprehension of viruses and microbes in Daqu microbial communities and provide valuable insights for enhancing quality control in Daqu production.'
+date: 2025-05-01
+venue: 'Food Research International'
+paperurl: 'http://academicpages.github.io/files/paper03.pdf'
 ---
 
 The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
