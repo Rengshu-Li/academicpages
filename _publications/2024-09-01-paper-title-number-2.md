@@ -2,7 +2,7 @@
 title: "Microbial interactions in mixed-species biofilms on the surfaces of Baijiu brewing environments"
 collection: publications
 category: manuscripts
-permalink: /publication/2010-10-01-paper-title-number-2
+permalink: /publication/2024-09-01
 date: 2024-09-01
 venue: 'Food Research International'
 paperurl: 'https://www.sciencedirect.com/science/article/abs/pii/S0963996924007683'
