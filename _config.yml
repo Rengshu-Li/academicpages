@@ -22,14 +22,14 @@ repository               : "rengshu-li/academicpages"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  avatar           : "profile_1.png"
+  name             : "Rengshu Li"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Lifelong learners"
+  location         : "US"
+  employer         : ""
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "lirengshu@outlook.com" 
 
   # Academic websites
   academia         : # URL
