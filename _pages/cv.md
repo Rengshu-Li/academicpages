@@ -22,16 +22,12 @@ Research experience
 * Microbial Interactions in Mixed-Species Biofilms on Baijiu Brewing Surfaces
   * China Agricultural University, 02/2022–08/2022
 
-* Temperature-induced community assembly of functional microorganisms, including phages, bacteria, and fungi in traditional Chinese liquor starter cultures
+* Temperature-Induced Community Assembly of Functional Microorganisms, Including Phages, Bacteria, and Fungi in Traditional Chinese Liquor Starter Cultures 
   * China Agricultural University, 11/2021-05/2022
     
 * Comparative Microbial and Functional Profiling of Sesame-Flavored Baijiu Starters
   * China Agricultural University, 09/2021-11/2021
-    
-* Exploring the in vitro simulated digestion of polysaccharides and intestinal flora fermentation of Craterellus cornucopioides 
-  * Sichuan Agricultural University, 04/2019-10/2019
 
-    
 Professional experience
 ======
 * Teaching and research assistant
