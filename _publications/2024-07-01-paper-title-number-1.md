@@ -2,7 +2,7 @@
 title: "Deciphering the core microbes and their interactions in spontaneous Baijiu fermentation: A comprehensive review"
 collection: publications
 category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/2024-07-01
 date: 2024-07-01
 venue: 'Food Research International'
 paperurl: 'https://www.sciencedirect.com/science/article/abs/pii/S0963996924005672'
