@@ -2,7 +2,7 @@
 title: "Integrated multi-omics uncover viruses, active fermenting microbes and their metabolic profiles in the Daqu microbiome"
 collection: publications
 category: manuscripts
-permalink: /publication/2015-10-01-paper-title-number-3
+permalink: /publication/2025-05-01
 date: 2025-05-01
 venue: 'Food Research International'
 paperurl: 'https://www.sciencedirect.com/science/article/abs/pii/S0963996925003989'
