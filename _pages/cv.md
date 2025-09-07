@@ -11,54 +11,33 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* M.S. in China Agricultural University, 2023
+* B.S. in Sichuan Agricultural University, 2021
 
-Work experience
+Research experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Effects of Fermentation by Bacillus and Filamentous Fungi on Wheat Protein Structure and Flavor
+  * China Agricultural University | 02/2022-06/2023 
+  
+* Microbial Interactions in Mixed-Species Biofilms on Baijiu Brewing Surfaces
+  * China Agricultural University | 02/2022–08/2022
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Temperature-induced community assembly of functional microorganisms, including phages, bacteria, and fungi in traditional Chinese liquor starter cultures
+  * China Agricultural University | 11/2021-05/2022
+    
+* Comparative Microbial and Functional Profiling of Sesame-Flavored Baijiu Starters
+  * China Agricultural University | 09/2021-11/2021
+    
+* Exploring the in vitro simulated digestion of polysaccharides and intestinal flora fermentation of Craterellus cornucopioides 
+  * Sichuan Agricultural University | 04/2019-10/2019
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
+    
+Professional experience
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Teaching and research assistant
+  * Laboratory of food microbiology, China Agricultural University | 09/2023-09/2024
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Summer intern                                               
+  * Nutrition and metabolism center, COFCO institute of nutrition and health | 06/2021-08/2021
+
   
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
